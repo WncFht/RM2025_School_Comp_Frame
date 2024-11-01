@@ -1,0 +1,3 @@
+C:/Users/18237/Desktop/school_camp/RM2025校内赛电控资料/电控框架/School_Comp_Frame_2024/cmake-build-debug-mingw-stm32/CMakeFiles/RM_Frame_C.elf.dir
+C:/Users/18237/Desktop/school_camp/RM2025校内赛电控资料/电控框架/School_Comp_Frame_2024/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+C:/Users/18237/Desktop/school_camp/RM2025校内赛电控资料/电控框架/School_Comp_Frame_2024/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir

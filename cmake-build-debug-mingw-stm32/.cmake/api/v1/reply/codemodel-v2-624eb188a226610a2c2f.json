@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RM_Frame_C",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RM_Frame_C.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RM_Frame_C.elf-Debug-6b0483b215a621c019d8.json",
+					"name" : "RM_Frame_C.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/18237/Desktop/school_camp/RM2025\u6821\u5185\u8d5b\u7535\u63a7\u8d44\u6599/\u7535\u63a7\u6846\u67b6/School_Comp_Frame_2024/cmake-build-debug-mingw-stm32",
+		"source" : "C:/Users/18237/Desktop/school_camp/RM2025\u6821\u5185\u8d5b\u7535\u63a7\u8d44\u6599/\u7535\u63a7\u6846\u67b6/School_Comp_Frame_2024"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
